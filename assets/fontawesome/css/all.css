@@ -28,34 +28,34 @@
   font-size: .875em; }
 
 .fa-1x {
-  font-size: 1em; }
-
-.fa-2x {
   font-size: 2em; }
 
-.fa-3x {
+.fa-2x {
   font-size: 3em; }
 
-.fa-4x {
+.fa-3x {
   font-size: 4em; }
 
-.fa-5x {
+.fa-4x {
   font-size: 5em; }
 
-.fa-6x {
+.fa-5x {
   font-size: 6em; }
 
-.fa-7x {
+.fa-6x {
   font-size: 7em; }
 
-.fa-8x {
+.fa-7x {
   font-size: 8em; }
 
-.fa-9x {
+.fa-8x {
   font-size: 9em; }
 
-.fa-10x {
+.fa-9x {
   font-size: 10em; }
+
+.fa-10x {
+  font-size: 11em; }
 
 .fa-fw {
   text-align: center;
